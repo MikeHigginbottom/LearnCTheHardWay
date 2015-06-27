@@ -1,0 +1,9 @@
+[DBG] (tests/libex29_tests.c:64) ----- RUNNING: ./tests/libex29_tests
+[DBG] (tests/libex29_tests.c:56) 
+----- test_dlopen
+[DBG] (tests/libex29_tests.c:57) 
+----- test_functions
+[DBG] (tests/libex29_tests.c:58) 
+----- test_failures
+[DBG] (tests/libex29_tests.c:59) 
+----- test_dlclose
